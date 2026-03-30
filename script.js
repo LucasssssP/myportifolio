@@ -38,11 +38,11 @@ function formatarTelefone(input) {
 }
 
 function TradingJournal(){
-  let url="https://lucasssssp.github.io/tradingjournal/public/";
+  let url="https://github.com/LucasssssP/tradingjournal";
   window.open(url);
 }
 
 function GrowBank(){
-  let url="https://lucasssssp.github.io/banco-digital-node/public/";
+  let url="https://github.com/LucasssssP/banco-digital-node";
   window.open(url);
 }
